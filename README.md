@@ -1,0 +1,3 @@
+# FerroAudioAmp
+Files to make Ferrofluid display speaker.
+Guide will be updated soon...
