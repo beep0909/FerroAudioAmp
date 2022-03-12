@@ -1,3 +1,3 @@
 # FerroAudioAmp
 Files to make Ferrofluid display speaker.
-Guide will be updated soon...
+Instrustios can be found in 'FerroAudioAmp Manufactureing Instructions.pdf'
